@@ -86,7 +86,7 @@ NFGuard is an advanced firewall management tool that provides both Command Line 
 
 1. **Download and Extract**:
 ```bash
-wget https://github.com/nfguard/nfguard/releases/download/v0.0.1/nfguard-0.0.1.tar.gz
+wget https://github.com/nfguard/nfguard/raw/refs/heads/main/releases/download/v0.0.1/nfguard-0.0.1.tar.gz
 tar -xzf nfguard-0.0.1.tar.gz
 cd nfguard-0.0.1
 ```
