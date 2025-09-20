@@ -1,1 +1,2 @@
 version=0.0.1
+https://github.com/nfguard/nfguard/raw/refs/heads/main/releases/download/v0.0.1/nfguard-0.0.1.tar.gz
